@@ -2,7 +2,7 @@ Package: ds.lm.test
 Type: Package
 Title: LM Test Implementation for DataSHIELD
 Maintainer: Daniel Schalk, Stefan Buchka
-Author: Daniel Schalk, Stefan Buchka
+Author: Daniel Schalk
 Version: 0.0.1
 License: GPL-3
 Description: DataSHIELD lm test
